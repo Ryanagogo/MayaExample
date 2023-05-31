@@ -1,3 +1,5 @@
+*Notes from the Video*
+
 Create a system for just one dot
 * Create locator
 * Create new Bifrost system
